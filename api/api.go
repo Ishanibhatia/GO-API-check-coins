@@ -20,7 +20,7 @@ type CoinBalanceResponse struct{
 }
 
 //Error Response
-type Error strcut{
+type Error struct{
 	//Error code
 	Code int
 
